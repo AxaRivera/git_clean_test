@@ -3,3 +3,4 @@ Super Nintendo Entertainment System
 Nintendo 64
 Gamecube
 Wii
+Wii U
