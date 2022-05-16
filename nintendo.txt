@@ -5,3 +5,4 @@ Gamecube
 Wii
 Wii U
 Nintendo switch PRO
+Nintendo Switch
