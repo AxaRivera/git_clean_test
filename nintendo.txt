@@ -4,3 +4,4 @@ Nintendo 64
 Gamecube
 Wii
 Wii U
+Nintendo Switch
